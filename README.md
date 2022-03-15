@@ -1,2 +1,1 @@
-# fora
-Fair ORgan Allocation
+# Fair Organ Allocation (FORA)
